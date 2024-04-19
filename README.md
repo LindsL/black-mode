@@ -1,2 +1,2 @@
-# black-mode
-Black mode avec javascript
+# Dark-mode
+Dark mode avec javascript
